@@ -1,0 +1,17 @@
+body, html {
+	width: 100%;
+	height: 100%;
+}
+html {
+	display: table;
+}
+body {
+	background-color: #3e3d3d;
+	display: table-cell;
+	vertical-align: middle;
+}
+#watch {
+	margin: 0 auto;
+	height: 700px;
+	width: 1000px;
+}
